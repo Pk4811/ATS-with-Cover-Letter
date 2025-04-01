@@ -19,8 +19,8 @@ Try the app here: [Gemini ATS](https://atswithcoverletter.streamlit.app/)
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/rebel47/gemini-ats.git
-   cd gemini-ats
+   git clone https://github.com/Pk4811/ATS-with-Cover-Letter.git
+   cd ATS-with-Cover-Letter
    ```
 
 2. Install dependencies:
