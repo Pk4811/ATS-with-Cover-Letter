@@ -8,7 +8,7 @@ Gemini ATS is a Streamlit-based web application designed to help job seekers opt
 - **Cover Letter Generation:** Create a professional and customized cover letter based on your resume and job description.
 
 ## Live Demo
-Try the app here:
+Try the app here: [Gemini ATS](https://ats-with-cover-letter-2dw7vnbxxujmxppgus6jvd.streamlit.app/)
 
 ## Installation
 
@@ -31,7 +31,7 @@ Try the app here:
 3. Set up your environment variables:
    Create a `.env` file in the project root and add:
    ```
-   GOOGLE_API_KEY=your_google_api_key
+   key = "value"
    ```
 
 4. Run the application:
